@@ -12,7 +12,7 @@ I'm interested in software engineering, machine learning, distributed systems, a
 
 ## Selected projects
 
-**[GraphHDC](https://github.com/Vandool/graph_hdc_public)** -- Probabilistic graph generation using hyperdimensional computing. Achieves state-of-the-art results on molecular benchmarks (QM9, ZINC250K). Python, PyTorch, PyTorch Geometric.
+**[GraphHDC](https://github.com/Vandool/graph_hdc_public)** -- Probabilistic graph generation using hyperdimensional computing. Achieves state-of-the-art results on graph representation and reconstruction benchmarks. Python, PyTorch, PyTorch Geometric.
 
 **[AI Butler](https://github.com/Vandool/ai-butler)** -- Multimodal conversational agent with voice and text I/O. Manages calendar through natural language using function-calling, handles complex multi-turn dialogue with context retention. Python, Hugging Face, ASR/TTS.
 
