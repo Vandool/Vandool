@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Arvand
 
-<!--
-**Vandool/Vandool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and Technical Lead at MHP (A Porsche Company), building large-scale analytics systems for the automotive industry. M.Sc. Computer Science from KIT (with distinction).
 
-Here are some ideas to get you started:
+I'm interested in graph machine learning, distributed systems, and building tools that make data useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Preparing a paper on [GraphHDC](https://github.com/Vandool/graph_hdc_public), a neurosymbolic approach to molecular graph generation combining hyperdimensional computing with normalizing flows
+- Building production backend systems in Python (FastAPI, Polars, PostgreSQL)
+- Learning Rust and Go
+
+## Selected projects
+
+**[GraphHDC](https://github.com/Vandool/graph_hdc_public)** -- Probabilistic graph generation using hyperdimensional computing. Achieves state-of-the-art results on molecular benchmarks (QM9, ZINC250K). Python, PyTorch, PyTorch Geometric.
+
+**[AI Butler](https://github.com/Vandool/ai-butler)** -- Multimodal conversational agent with voice and text I/O. Manages calendar through natural language using function-calling, handles complex multi-turn dialogue with context retention. Python, Hugging Face, ASR/TTS.
+
+## Tech I use daily
+
+`Python` `FastAPI` `PyTorch` `PostgreSQL` `Docker` `Linux` `Git`
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arvandkaveh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arvandkaveh)
