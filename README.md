@@ -2,7 +2,7 @@
 
 Software Engineer and Technical Lead at MHP (A Porsche Company), building large-scale analytics systems for the automotive industry. M.Sc. Computer Science from KIT (with distinction).
 
-I'm interested in graph machine learning, distributed systems, and building tools that make data useful.
+I'm interested in software engineering, machine learning, distributed systems, and building tools that make data useful.
 
 ## What I'm working on
 
